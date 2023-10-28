@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Reworked Cargo Scooter" modversion="1.0.1" corepackage="False" steamworkshopid="2876081205" gameversion="0.19.11.0">
+  <Item file="%ModDir%/Content/Items/Jobgear/Engineer/engineer_talent_items.xml" />
+</contentpackage>
